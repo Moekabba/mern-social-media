@@ -1,0 +1,5 @@
+// delete src folder then recreate it and create index.js
+import React from "react";
+import ReactDOM from "react";
+import App from "./App";
+ReactDOM.render(<App />, document.getElementById('root'));
